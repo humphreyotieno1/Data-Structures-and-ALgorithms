@@ -1,31 +1,3 @@
-Here is a draft for your README file based on the information available:
-
-# Data Structures and Algorithms
-
-Welcome to the Data Structures and Algorithms repository. This repository contains various implementations and examples of common data structures and algorithms, including explanations and use cases.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This repository aims to provide a comprehensive collection of data structures and algorithms implemented in various programming languages. Each implementation includes explanations of the concepts and the Big O notation for time and space complexity.
-
-## Data Structures
-
-The following data structures are implemented in this repository:
-
-- Arrays
-- Linked Lists
-- StacksHere is an updated README file that includes Big O notation for the data structures and algorithms:
-
 # Data Structures and Algorithms
 
 Welcome to the Data Structures and Algorithms repository. This repository contains various implementations and examples of common data structures and algorithms, including explanations and use cases.
@@ -146,5 +118,3 @@ Contributions are welcome! If you have any suggestions, improvements, or new imp
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Feel free to customize this README further based on the specific details of your repository.
